@@ -8,3 +8,5 @@ commit changes第二行：本次提交的文件的详细描述（多）
 不点击commitchanges就不会提交修改的
 可以在仓库主页检索文件：使用go to file
 按照提示输入关键词查找
+你甚至还可以使用快捷键T（在仓库中直接输入）
+来快速进入go to file的页面
