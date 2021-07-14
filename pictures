@@ -12,3 +12,5 @@ commit changes第二行：本次提交的文件的详细描述（多）
 来快速进入go to file的页面
 如何下载仓库的压缩文件：
 在CODE下点击download zip
+issue的作用：
+讨论bug或者与原仓库的所有者交流问题使用
